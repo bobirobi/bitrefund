@@ -1,0 +1,468 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 14,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "21px"
+            },
+            ".mbr-section-lead": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-2000x1206.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Get back <span style=\"font-weight: normal;\">your lost money on cryptocurrency</span>",
+          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Did you lost some money on cryptocurrency?</span><br>We will show you how to refund <b>up to 30% </b>of lost invested money!<br>The whole will take no more than <b>15 minutes</b>!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.hostedfiles.net/cl.php?id=0e3bd1076f6dd56b159a019fefba2b71\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Take <strong>free</strong> guide<br></a>  "
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-0",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f2f2f2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "clock",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title1": "Save your time",
+          "subtitle1": "Simple and clear guide",
+          "caption1": "It's simple and clear guide. <br>The whole progress will take no more than 15 minutes.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title2": "Satisfied customers",
+          "subtitle2": "About 2500+ satisfied investors",
+          "caption2": "You can't lose anything. <br>Make it try and join to over 2,500 satisfied and richer people!&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "presentation",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title3": "Grow your pocket",
+          "subtitle3": "Charge back up to 30%",
+          "caption3": "Refund up to 30% of your lost cryptocurrency. <br>You can invest these money into cryptocurrency we suggest <br>and look how your pocket grows.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "testimonial": [
+            {
+              "text": "<p>“Its really very amazing guide that makes me get back my lost money (that's usually takes more than 3 hours at least from me if i did it from scratch). i hope to have very big profit, thanks again for your nice guide”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Carmen S.",
+              "authorBio": "Investor"
+            },
+            {
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work bitrefund team. Great effort and super ideas! I charge back about 30% of my money”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Alexander G.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“At first view, looks like a nice innovative guide, i like the great focus and time that was given to the responsive idea, i like the simple and clear feature. Give me more control over the next investments and ill be using this guide for more serious projects. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mbr-117x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Garry C.",
+              "authorBio": "Full-time cryptocurrency investor"
+            }
+          ],
+          "_anchor": "testimonials2-2",
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "WHAT OUR SATISFIED USERS SAY",
+          "subtitle": "Shape your future investments with sharp prediction and refunded money."
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            "STRONG": {
+              "font-size": "15px"
+            },
+            "B": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#f2f2f2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "<span style=\"font-weight: normal;\">DOWNLOAD</span> FREE <span style=\"font-weight: normal;\">GUIDE</span>",
+          "text": "<p>Bitrefund has provided for cryptocurrency investors a bright guide of how to charge back lost money which can be used either partially or in full for every future investments.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.hostedfiles.net/cl.php?id=0e3bd1076f6dd56b159a019fefba2b71\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><strong>DOWNLOAD</strong></a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US AND SHARE",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"bitrefund.eu\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"bitrefund.eu\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/bitrefund\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 BitRefund."
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-c",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "bootstrap",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BITREFUND</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bitrefund.eu\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"bitrefund.eu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bitrefund.eu\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bitrefund.eu\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"instagram.com/bitrefund\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.hostedfiles.net/cl.php?id=0e3bd1076f6dd56b159a019fefba2b71\" target=\"_blank\">DOWNLOAD</a></li>"
+        }
+      ]
+    }
+  }
+}
